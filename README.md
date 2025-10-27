@@ -1,4 +1,4 @@
-# path_to_expert_cf
+                                                                 # path_to_expert_cf
 
 Problem for practise from stanford CS97SI Course
 
@@ -31,3 +31,4 @@ Read the problem statement again. You might have missed something very important
 Carefully go through the lecture slides. Think about how to apply the basic algorithms covered in class to the problem.
 
 Discuss the problem with friends. Working in teams of size 2 or 3 is strongly recommended. As long as you don't copy-paste someone else's codes blindly, you can even share your (possibly buggy) codes.
+
