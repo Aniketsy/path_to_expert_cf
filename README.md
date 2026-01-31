@@ -1,6 +1,6 @@
-                                            # path_to_expert_cf
+**path_to_expert_cf**
 
-Problem for practise from stanford CS97SI Course
+`Problem for practise from stanford CS97SI Course`
 
 Coding Exercise  :  https://web.stanford.edu/class/cs97si/assn1.html
 
@@ -22,11 +22,11 @@ Computational Geometry : https://web.stanford.edu/class/cs97si/assn9.html
 
 String Algorithms : https://web.stanford.edu/class/cs97si/assn10.html
 
-If you get stuck…
+ **If you get stuck…**
 
-First, remember that you are not stuck unless you have spent more than a day on a single problem. It is perfectly normal to spend many hours on just coming up with the right algorithm.
+`First, remember that you are not stuck unless you have spent more than a day on a single problem. It is perfectly normal to spend many hours on just coming up with the right algorithm`.
 
-Read the problem statement again. You might have missed something very important.
+`Read the problem statement again. You might have missed something very important`.
 
 Carefully go through the lecture slides. Think about how to apply the basic algorithms covered in class to the problem.
 
